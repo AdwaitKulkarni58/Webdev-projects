@@ -1,0 +1,32 @@
+html{
+    font-style: oblique;
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    color: black;
+    size: A5;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+}
+img{
+    border: 10px groove hotpink;
+}
+
+strong{
+    color: crimson;
+}
+p{
+    color: black;
+}
+ul, li{
+    color: white;
+}
+a{
+    color: black;
+}
+body   {
+    color: darkblue;
+    size: 100px;
+    background-color: orange;
+}
