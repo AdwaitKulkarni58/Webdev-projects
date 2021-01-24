@@ -1,0 +1,91 @@
+html{
+    background-color: black;
+}
+.info{
+    color: chartreuse;
+    text-align: center;
+}
+.Intro{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+#Design{
+    text-align:center;
+}
+.First_Name {
+    color: cyan;
+}
+.First{
+    margin-left: 36px;
+}
+.Last_Name{
+    color: cyan;
+}
+.Standard{
+    color: cyan;
+    margin-right: 100px;
+}
+.class{
+    margin-right: 105px;
+}
+.Last{
+    margin-left: 38px;
+}
+.Parent_Name{
+    color: cyan;
+}
+.Parent{
+    margin-left: 17px;
+}
+.Main_Form{
+    color: cyan;
+    margin-left: 84px;
+}
+.birthday{
+    color: cyan;
+}
+.Student_Birthday{
+    margin-left: 17px;
+}
+.Number{
+    color: cyan;
+}
+.Contact_Number{
+    margin-left: 8px;
+}
+.Question{
+    color: cyan;
+    margin-left: 34px;
+}
+.Address{
+    color: cyan;
+    margin-left: 188px;
+}
+.City{
+    color: cyan;
+    margin-right: 78px;
+}
+.CityName{
+    margin-left: 9px;
+}
+.Country{
+    color: cyan;
+    margin-left: 140px;
+}
+.countries{
+    margin-left: 60px;
+}
+.Intro{
+    color: #000;
+    font-weight: bold;
+    font-size: 2rem;
+    animation: blinkingText 2s infinite;
+}
+@keyframes blinkingText{
+    0%		{ color: #10c018;}
+    25%		{ color: #1056c0;}
+    50%		{ color: #ef0a1a;}
+    75%		{ color: #254878;}
+    100%	{ color: #04a1d5;}
+}
