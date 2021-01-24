@@ -1,0 +1,72 @@
+.Person_name{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 45px;
+    color: darkblue;
+}
+html{
+    background-color: #ddd;
+}
+.date{
+    font-size: 35px;
+    margin-top: -35px;
+    color: orangered;
+}
+.short_description{
+    font-size: 40px;
+    margin-top: -35px;
+}
+u{
+    text-emphasis-color: orangered;
+}
+.Intro{
+    margin-top: -35px;
+    font-size: 20px;
+    border-style: groove;
+    border-width: 15px;
+    border-radius: 20px;
+    font-style: italic;
+    color: black;
+    background-color: orange;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.Image{
+    border-style: double;
+    border-color: yellow;
+    border-width: thick;
+    display: inline-block;
+    background-size: cover;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3px;
+}
+.caption{
+    color: black;
+    font-size: medium;
+    width: 300px;
+    height: 20px;
+    border-image-width: 35px;
+    border: 2px groove cyan;
+    align-content: center;
+    background-color: cyan;
+    display: block;
+    background-size: cover;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.Intro_to_list{
+    text-align: left;
+    font-size: 30px;
+}
+.List{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+.hyperlink{
+    text-align: center;
+}
