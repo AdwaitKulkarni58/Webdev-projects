@@ -1,0 +1,33 @@
+html {
+    background: url("../nature image.jpeg") no-repeat center fixed;
+    background-size: cover;
+}
+.Logo{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    clear: both;
+    padding-top: 112px;
+    padding-bottom: 20px;
+    left: 50%;
+    right: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.Elements{
+    color: white;
+    text-align: center;
+    padding: 16px;
+    margin: 0px;
+    display: inline;
+    list-style-type: none;
+    overflow: hidden;
+}
+.List-style{
+    list-style-type: none;
+    display: inline;
+}
+.Second-List-Style{
+    list-style-type: none;
+    display: inline;
+}
